@@ -1,2 +1,1 @@
-# NextRemoteRepo
-NextRemoteRepoForTests
+# Paragon z warzywniaka
